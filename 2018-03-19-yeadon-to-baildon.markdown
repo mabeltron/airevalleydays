@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Yeadon to Baildon via Esholt
 date: 2018-03-19 16:12
 category: walks
