@@ -4,10 +4,10 @@ Slug: the-bubble-in-the-aire
 Date: 2018-04-02 09:25
 Modified: 2018-04-02 09:25
 Category: miscellany
-Tags: baildon, bd17, boundaries
+Tags: baildon, bd17
 Author: Simon Greenwood
 Summary: How Wharfedale once crossed the Aire
-Status: draft
+Status: published
 ---
 At the bottom of Hollins Hill in Baildon, where the road crosses Gill Beck on its way to the Aire, there is a boundary marker between Baildon Urban District Council and Wharfedale Rural District Council. Both government units that have long gone of course - Wharfedale was replaced by Aireborough in 1937 and Baildon was absorbed into Bradford in 1974, and the marker is a reminder of the way in which boundaries were decided and how the decisions have stayed with us until today.
 
